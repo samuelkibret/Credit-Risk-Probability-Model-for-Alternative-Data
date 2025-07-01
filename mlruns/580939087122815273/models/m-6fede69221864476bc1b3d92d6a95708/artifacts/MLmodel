@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/skibret/Downloads/KAIM/Week%205/Project/Credit%20Risk%20Probability%20Model%20for%20Alternative%20Data/mlruns/580939087122815273/models/m-6fede69221864476bc1b3d92d6a95708/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.1.1
+model_id: m-6fede69221864476bc1b3d92d6a95708
+model_size_bytes: 44948536
+model_uuid: m-6fede69221864476bc1b3d92d6a95708
+prompts: null
+run_id: d9e663151ee64eeb8f104ca3256b2d9b
+utc_time_created: '2025-07-01 16:57:49.233450'
