@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/skibret/Downloads/KAIM/Week%205/Project/Credit%20Risk%20Probability%20Model%20for%20Alternative%20Data/mlruns/580939087122815273/d9e663151ee64eeb8f104ca3256b2d9b/artifacts
+end_time: 1751389074547
+entry_point_name: ''
+experiment_id: '580939087122815273'
+lifecycle_stage: active
+run_id: d9e663151ee64eeb8f104ca3256b2d9b
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751389069105
+status: 3
+tags: []
+user_id: sKibret

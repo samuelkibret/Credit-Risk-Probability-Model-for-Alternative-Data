@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/skibret/Downloads/KAIM/Week%205/Project/Credit%20Risk%20Probability%20Model%20for%20Alternative%20Data/mlruns/0/c9805032ef76474a852d927b85488c8d/artifacts
+end_time: 1751387635711
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9805032ef76474a852d927b85488c8d
+run_name: logistic_regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751387635291
+status: 4
+tags: []
+user_id: sKibret

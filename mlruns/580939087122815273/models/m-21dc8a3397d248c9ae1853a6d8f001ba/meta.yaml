@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/skibret/Downloads/KAIM/Week%205/Project/Credit%20Risk%20Probability%20Model%20for%20Alternative%20Data/mlruns/580939087122815273/models/m-21dc8a3397d248c9ae1853a6d8f001ba/artifacts
+creation_timestamp: 1751388896836
+experiment_id: '580939087122815273'
+last_updated_timestamp: 1751388907701
+model_id: m-21dc8a3397d248c9ae1853a6d8f001ba
+model_type: null
+name: model
+source_run_id: fc26bc35f8d64114a4a2a3a6ce40ec02
+status: 2
+status_message: null
